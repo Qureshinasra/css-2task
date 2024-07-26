@@ -45,3 +45,19 @@ body{
     margin-left: 5px;
     top: 1420px;
   }
+  .start{
+    position: absolute;
+    top: 1700px;
+    margin-left: 450px;
+
+  }
+  .end{
+    position: absolute;
+    top:1700px;
+    margin-left: 100px;
+  }
+  .red{
+    position: absolute;
+    top: 1700px;
+    margin-left:800px;
+  }
